@@ -1,0 +1,13 @@
+
+mark: 0
+
+notes:
+-error when running strings.py (using backtick ` instead of quote ')
+-need better commenting and testing
+-not quite right solution for clip.py
+-also can't compile len_sum.py
+-it is extremely obvious that the code in dna.py is plagiarized from
+https://stackoverflow.com/questions/25188968/reverse-complement-of-dna-strand-using-python, and i can't
+ even run the code. therefore i'm discounting all other work in this lab and
+ giving you both a 0. this is a real shame as you could have earned a 2 or 3
+ based on the other work (even if you had handed in nothing for this)
