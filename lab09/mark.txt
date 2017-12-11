@@ -1,0 +1,6 @@
+
+mark: 1
+
+notes:
+-please see the solutions to understand how to do binary search, or come meet
+ with one of us for an hour sometime
